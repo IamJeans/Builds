@@ -1,5 +1,5 @@
 # your link goes here
-link = "https://github.com/IamJeans/Builds/blob/77a6bd8e643958cfcaee45f4e1d8fb33b2430342/Build1.jsonhttps://github.com/IamJeans/Builds/blob/77a6bd8e643958cfcaee45f4e1d8fb33b2430342/Build1.json"
+link = "https://github.com/IamJeans/Builds/blob/77a6bd8e643958cfcaee45f4e1d8fb33b2430342/Build1.json"
 
 # note: this will break if a repo/organization or subfolder is named "blob" -- would be ideal to use a fancy regex
 # to be more precise here
